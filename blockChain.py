@@ -1,2 +1,3 @@
 import hashlib
 
+def sh

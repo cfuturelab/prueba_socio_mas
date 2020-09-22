@@ -1,3 +1,3 @@
 import hashlib
 
-def sha2
+def sha256

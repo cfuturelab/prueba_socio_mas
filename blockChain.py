@@ -1,3 +1,3 @@
 import hashlib
 
-def sh
+def sha2

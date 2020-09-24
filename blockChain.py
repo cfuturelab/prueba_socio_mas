@@ -1,3 +1,3 @@
 import hashlib
 
-def sha256
+def sha256(dat

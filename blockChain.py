@@ -1,3 +1,3 @@
 import hashlib
 
-def sha256(dataNeedSh
+def sha256(dataNeedSha):

@@ -1,4 +1,4 @@
 import hashlib
 
 def sha256(dataNeedSha):
-    sha256 = hashlib.sha
+    sha256 = hashlib.sha25

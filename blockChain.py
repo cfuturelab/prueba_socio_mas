@@ -3,4 +3,4 @@ import hashlib
 def sha256(dataNeedSha):
     sha256 = hashlib.sha256()
     sha256.update(dataNeedSha.encode('utf-8'))
-    return sha256.hexd
+    return sha256.hexdigest()

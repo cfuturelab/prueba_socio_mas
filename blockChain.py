@@ -6,4 +6,4 @@ def sha256(dataNeedSha):
     return sha256.hexdigest()
 
 # 区块
-class Bloc
+class Block:

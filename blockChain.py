@@ -7,4 +7,5 @@ def sha256(dataNeedSha):
 
 # 区块
 class Block:
-    def __init__(self, data, previousHash)
+    def __init__(self, data, previousHash):
+ 

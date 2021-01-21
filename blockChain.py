@@ -9,4 +9,4 @@ def sha256(dataNeedSha):
 class Block:
     def __init__(self, data, previousHash):
         self.data = data
-        self.pre
+        self.previousHas

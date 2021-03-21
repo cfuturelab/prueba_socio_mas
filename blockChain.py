@@ -10,4 +10,4 @@ class Block:
     def __init__(self, data, previousHash):
         self.data = data
         self.previousHash = previousHash
-        self.hash = sel
+        self.hash = self.Compu

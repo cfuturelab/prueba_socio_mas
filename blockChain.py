@@ -12,3 +12,4 @@ class Block:
         self.previousHash = previousHash
         self.hash = self.ComputeHash
 
+    

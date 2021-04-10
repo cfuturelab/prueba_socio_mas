@@ -13,4 +13,4 @@ class Block:
         self.hash = self.ComputeHash
 
     @property
-    
+    def C

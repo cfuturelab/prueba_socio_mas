@@ -14,4 +14,4 @@ class Block:
 
     @property
     def ComputeHash(self):
-        return st
+        return str(sh

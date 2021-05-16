@@ -16,4 +16,5 @@ class Block:
     def ComputeHash(self):
         return str(sha256(self.data))
 
-    def showBlock(self)
+    def showBlock(self):
+   

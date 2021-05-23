@@ -17,4 +17,4 @@ class Block:
         return str(sha256(self.data))
 
     def showBlock(self):
-        print ({'data':self.
+        print ({'data':self.dat

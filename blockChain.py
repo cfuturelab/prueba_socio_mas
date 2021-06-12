@@ -18,3 +18,5 @@ class Block:
 
     def showBlock(self):
         print ({'data':self.data, 'previousHash': self.previousHash, 'hash': self.hash})
+
+

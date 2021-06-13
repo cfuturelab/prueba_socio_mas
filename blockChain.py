@@ -20,3 +20,5 @@ class Block:
         print ({'data':self.data, 'previousHash': self.previousHash, 'hash': self.hash})
 
 
+# 链
+c

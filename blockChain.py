@@ -21,4 +21,5 @@ class Block:
 
 
 # 链
-class Chai
+class Chain:
+ 

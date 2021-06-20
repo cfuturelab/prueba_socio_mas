@@ -22,4 +22,4 @@ class Block:
 
 # 链
 class Chain:
-    def __in
+    def __init__(

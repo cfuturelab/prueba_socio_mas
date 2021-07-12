@@ -23,4 +23,4 @@ class Block:
 # 链
 class Chain:
     def __init__(self):
-        self.chain = [self.ances
+        self.chain = [self.ancestor

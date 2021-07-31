@@ -26,4 +26,4 @@ class Chain:
         self.chain = [self.ancestorBlock]
 
     @property
-    d
+    def anc

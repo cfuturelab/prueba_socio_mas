@@ -26,4 +26,5 @@ class Chain:
         self.chain = [self.ancestorBlock]
 
     @property
-    def ancestorBlock(self)
+    def ancestorBlock(self):
+  

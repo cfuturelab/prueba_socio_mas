@@ -27,4 +27,4 @@ class Chain:
 
     @property
     def ancestorBlock(self):
-        anc
+        ancestor_b

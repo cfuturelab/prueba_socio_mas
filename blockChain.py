@@ -28,4 +28,4 @@ class Chain:
     @property
     def ancestorBlock(self):
         ancestor_block = Block('祖先区块', '')
-        return ancestor_blo
+        return ancestor_block

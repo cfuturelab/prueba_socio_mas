@@ -30,4 +30,4 @@ class Chain:
         ancestor_block = Block('祖先区块', '')
         return ancestor_block
 
-    @
+    @prop

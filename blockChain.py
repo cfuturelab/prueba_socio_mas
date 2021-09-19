@@ -31,4 +31,4 @@ class Chain:
         return ancestor_block
 
     @property
-    def getL
+    def getLates

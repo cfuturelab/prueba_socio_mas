@@ -31,4 +31,5 @@ class Chain:
         return ancestor_block
 
     @property
-    def getLatestBlock(sel
+    def getLatestBlock(self):
+  

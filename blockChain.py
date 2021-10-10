@@ -33,3 +33,5 @@ class Chain:
     @property
     def getLatestBlock(self):
         return self.chain[len(self.chain) - 1]
+
+   

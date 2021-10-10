@@ -32,4 +32,4 @@ class Chain:
 
     @property
     def getLatestBlock(self):
-        return self.chain[len(sel
+        return self.chain[len(self.c

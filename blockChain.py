@@ -34,4 +34,4 @@ class Chain:
     def getLatestBlock(self):
         return self.chain[len(self.chain) - 1]
 
-    def addBlockToChain
+    def addBlockToChain(sel

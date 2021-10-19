@@ -35,3 +35,4 @@ class Chain:
         return self.chain[len(self.chain) - 1]
 
     def addBlockToChain(self, newBlock):
+   

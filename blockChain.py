@@ -35,4 +35,4 @@ class Chain:
         return self.chain[len(self.chain) - 1]
 
     def addBlockToChain(self, newBlock):
-        newBlock.previousHash = self.getLa
+        newBlock.previousHash = self.getLates

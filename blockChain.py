@@ -36,4 +36,4 @@ class Chain:
 
     def addBlockToChain(self, newBlock):
         newBlock.previousHash = self.getLatestBlock.hash
- 
+   

@@ -39,4 +39,4 @@ class Chain:
         newBlock.hash = newBlock.ComputeHash
         self.chain.append(newBlock)
 
-    def show
+    def showChain

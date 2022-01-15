@@ -40,4 +40,4 @@ class Chain:
         self.chain.append(newBlock)
 
     def showChain(self):
-        for i in 
+        for i in self.c

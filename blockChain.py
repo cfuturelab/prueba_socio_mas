@@ -41,4 +41,6 @@ class Chain:
 
     def showChain(self):
         for i in self.chain:
-            i.showBlock
+            i.showBlock()
+
+  

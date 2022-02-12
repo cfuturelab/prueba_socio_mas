@@ -43,4 +43,4 @@ class Chain:
         for i in self.chain:
             i.showBlock()
 
-    def validate
+    def validateChain

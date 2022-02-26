@@ -44,4 +44,4 @@ class Chain:
             i.showBlock()
 
     def validateChain(self):
-        if len(self.c
+        if len(self.chain) ==

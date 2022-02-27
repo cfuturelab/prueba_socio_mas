@@ -45,4 +45,4 @@ class Chain:
 
     def validateChain(self):
         if len(self.chain) == 1:
-            if self.chai
+            if self.chain[0]

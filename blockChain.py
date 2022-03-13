@@ -46,4 +46,4 @@ class Chain:
     def validateChain(self):
         if len(self.chain) == 1:
             if self.chain[0].hash != self.chain[0].ComputeHash:
-                r
+                return F

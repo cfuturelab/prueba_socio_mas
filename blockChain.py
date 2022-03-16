@@ -47,4 +47,4 @@ class Chain:
         if len(self.chain) == 1:
             if self.chain[0].hash != self.chain[0].ComputeHash:
                 return False
-  
+        

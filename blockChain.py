@@ -48,3 +48,5 @@ class Chain:
             if self.chain[0].hash != self.chain[0].ComputeHash:
                 return False
             return True
+
+   

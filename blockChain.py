@@ -49,4 +49,4 @@ class Chain:
                 return False
             return True
 
-        for i in 
+        for i in ra

@@ -49,4 +49,4 @@ class Chain:
                 return False
             return True
 
-        for i in range(
+        for i in range(1,len

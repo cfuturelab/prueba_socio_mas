@@ -50,3 +50,4 @@ class Chain:
             return True
 
         for i in range(1,len(self.chain)):
+       

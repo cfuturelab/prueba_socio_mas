@@ -52,4 +52,4 @@ class Chain:
         for i in range(1,len(self.chain)):
             blockToValidate = self.chain[i]
             if (blockToValidate.hash) != blockToValidate.ComputeHash:
-                print('数据被
+                print('数据被篡改')

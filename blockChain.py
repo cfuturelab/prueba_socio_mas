@@ -54,4 +54,4 @@ class Chain:
             if (blockToValidate.hash) != blockToValidate.ComputeHash:
                 print('数据被篡改')
                 return False
- 
+          

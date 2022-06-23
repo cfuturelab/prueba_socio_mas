@@ -55,3 +55,4 @@ class Chain:
                 print('数据被篡改')
                 return False
             previousBlock = self.chain[i-1]
+   

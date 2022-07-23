@@ -55,4 +55,4 @@ class Chain:
                 print('数据被篡改')
                 return False
             previousBlock = self.chain[i-1]
-            if blockToValidate.previousHash != previousBlock.h
+            if blockToValidate.previousHash != previousBlock.hash:

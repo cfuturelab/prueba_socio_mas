@@ -56,4 +56,4 @@ class Chain:
                 return False
             previousBlock = self.chain[i-1]
             if blockToValidate.previousHash != previousBlock.hash:
-             
+                p

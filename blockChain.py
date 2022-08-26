@@ -57,4 +57,5 @@ class Chain:
             previousBlock = self.chain[i-1]
             if blockToValidate.previousHash != previousBlock.hash:
                 print('前后区块链接断裂')
-                return Fa
+                return False
+ 

@@ -60,4 +60,4 @@ class Chain:
                 return False
         return True
 
-block1 = Bloc
+block1 = Block('

@@ -61,3 +61,4 @@ class Chain:
         return True
 
 block1 = Block('转账10', '')
+bloc

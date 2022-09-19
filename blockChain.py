@@ -63,4 +63,4 @@ class Chain:
 block1 = Block('转账10', '')
 block2 = Block('转账20', '')
 bitChain = Chain()
-bitChain.addBlockToChai
+bitChain.addBlockToChain(

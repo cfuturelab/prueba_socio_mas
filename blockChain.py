@@ -64,4 +64,7 @@ block1 = Block('转账10', '')
 block2 = Block('转账20', '')
 bitChain = Chain()
 bitChain.addBlockToChain(block1)
-bitChain.addBlockToChain(block
+bitChain.addBlockToChain(block2)
+
+
+# 尝试

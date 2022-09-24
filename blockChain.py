@@ -67,4 +67,4 @@ bitChain.addBlockToChain(block1)
 bitChain.addBlockToChain(block2)
 
 
-# 尝试
+# 尝试篡改区块

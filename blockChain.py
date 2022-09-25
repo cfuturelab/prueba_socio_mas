@@ -68,4 +68,4 @@ bitChain.addBlockToChain(block2)
 
 
 # 尝试篡改区块
-bitChain.chai
+bitChain.chain[1]

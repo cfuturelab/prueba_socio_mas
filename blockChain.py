@@ -69,3 +69,4 @@ bitChain.addBlockToChain(block2)
 
 # 尝试篡改区块
 bitChain.chain[1].data = '转账500'
+# 

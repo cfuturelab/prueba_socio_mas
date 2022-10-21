@@ -71,4 +71,4 @@ bitChain.addBlockToChain(block2)
 bitChain.chain[1].data = '转账500'
 # 尝试修正hash
 bitChain.chain[1].hash = bitChain.chain[1].ComputeHash
-bitChain.
+bitChain.s

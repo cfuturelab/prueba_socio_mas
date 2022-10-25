@@ -72,4 +72,4 @@ bitChain.chain[1].data = '转账500'
 # 尝试修正hash
 bitChain.chain[1].hash = bitChain.chain[1].ComputeHash
 bitChain.showChain()
-prin
+print(b

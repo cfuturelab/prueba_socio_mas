@@ -74,3 +74,6 @@ bitChain.chain[1].hash = bitChain.chain[1].ComputeHash
 bitChain.showChain()
 print(bitChain.validateChain())
 
+
+
+    

@@ -1,1 +1,2 @@
-import has
+import hashlib
+im

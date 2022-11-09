@@ -2,4 +2,4 @@ import hashlib
 import requests
 
 
-sha256 = has
+sha256 = hashli

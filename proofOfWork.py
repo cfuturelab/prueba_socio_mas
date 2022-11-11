@@ -3,4 +3,4 @@ import requests
 
 
 sha256 = hashlib.sha256()
-sh
+sha256.u

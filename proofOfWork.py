@@ -7,4 +7,4 @@ sha256.update('heroyf1'.encode('utf-8'))
 res1 = sha256.hexdigest()
 
 # sha256.update('heroyf2'.encode('utf-8'))
-# res2 = sha256.hexdigest(
+# res2 = sha256.hexdigest()

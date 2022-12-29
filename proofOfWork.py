@@ -11,4 +11,5 @@ res1 = sha256.hexdigest()
 # print(res1 ,res2)
 
 
-def proofOfWork()
+def proofOfWork():
+   

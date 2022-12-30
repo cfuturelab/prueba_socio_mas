@@ -12,4 +12,4 @@ res1 = sha256.hexdigest()
 
 
 def proofOfWork():
-   
+    data =

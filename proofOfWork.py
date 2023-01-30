@@ -14,4 +14,5 @@ res1 = sha256.hexdigest()
 def proofOfWork():
     data = 'heroyf'
     x = '1'
-    sha256.update((data+x).encode('utf-8'
+    sha256.update((data+x).encode('utf-8'))
+    w

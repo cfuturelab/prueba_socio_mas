@@ -15,4 +15,4 @@ def proofOfWork():
     data = 'heroyf'
     x = '1'
     sha256.update((data+x).encode('utf-8'))
-    while Tru
+    while True:

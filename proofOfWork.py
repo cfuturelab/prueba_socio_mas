@@ -16,4 +16,4 @@ def proofOfWork():
     x = '1'
     sha256.update((data+x).encode('utf-8'))
     while True:
-        if str(sha256.h
+        if str(sha256.hexdige

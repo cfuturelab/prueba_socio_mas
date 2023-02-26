@@ -19,4 +19,4 @@ def proofOfWork():
         if str(sha256.hexdigest())[0:1] != "0":
             x = str(int(x) + 1)
         else:
- 
+          

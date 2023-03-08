@@ -20,4 +20,4 @@ def proofOfWork():
             x = str(int(x) + 1)
         else:
             print(str(sha256.hexdigest()))
-    
+       

@@ -21,3 +21,4 @@ def proofOfWork():
         else:
             print(str(sha256.hexdigest()))
             print(x)
+     

@@ -24,4 +24,4 @@ def proofOfWork():
             break
 
 
-proofOfW
+proofOfWork()

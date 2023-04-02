@@ -25,4 +25,4 @@ def proofOfWork():
 
 
 proofOfWork()
- 
+        
